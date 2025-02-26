@@ -1,0 +1,177 @@
+.cover {
+  background: linear-gradient(to right, #c2e59c, #64b3f4);
+  height: 700px;
+
+
+}
+
+.headline {
+  font-family: "Acme", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 90px;
+  color: #FFF2F2;
+  text-align: center;
+  padding-top: 200px;
+}
+
+.subhead {
+  font-family: "Bai Jamjuree", serif;
+  font-weight: 500;
+  font-style: normal;
+  text-align: center;
+  font-size: 50px;
+  color: #FFF2F2;
+}
+
+.intro {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.selfie {
+  height: 150px;
+  border-radius: 50%;
+  margin-top: 100px;
+}
+
+h2 {
+  color: #79D7BE;
+  font-size: 40px;
+  font-family: "Monomakh", serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+.hello {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.desc {
+  text-align: center;
+  font-size: 20px;
+  width: 500px;
+  padding-bottom: 100px;
+  font-family: "Baloo Bhaijaan 2", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.stylish-hr {
+  border: none;
+  height: 3px;
+  background: repeating-linear-gradient(
+      to right, 
+      #c2e59c, #64b3f4 10px, 
+      transparent 10px, transparent 20px
+  );
+  width: 21%;
+  margin: 20px auto;
+}
+
+.skills {
+  padding-bottom: 100px;
+}
+
+.myskills {
+  text-align: center;
+  padding-top: 100px;
+}
+
+.design {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+  width: 500px;
+}
+
+h5 {
+  color: #79D7BE;
+  font-family: "Monomakh", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.parent {
+  display: grid;
+  grid-template-columns: 0.5fr 1fr;
+  grid-template-rows: repeat(1, 1fr);
+  width: 50%;
+  margin: 100px auto 0 auto;
+  text-align: left;
+  row-gap: 2rem;
+  column-gap: 1rem;
+}
+
+.gridp {
+  font-family: "Baloo Bhaijaan 2", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+}
+
+.getintouch {
+  text-align: center;
+  padding-top: 100px;
+}
+
+.love {
+  text-align: center;
+  font-size: 25px;
+  padding-top: 40px;
+  color: #64b3f4;
+}
+
+.lovep {
+  font-family: "Baloo Bhaijaan 2", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 22px;
+  text-align: center;
+  padding-top: 40px;
+  width: 600px;
+
+}
+
+.contact {
+  padding-bottom: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.contactme {
+  padding-top: 40px;
+}
+
+.btnn {
+  background: linear-gradient(to right, #c2e59c, #64b3f4);
+  border: none;
+  font-size: 20px;
+  padding: 10px 20px 8px 20px;
+  border-radius: 10px;
+  color: white;
+  font-family: "Baloo Bhaijaan 2", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.footer {
+  background: linear-gradient(to right, #c2e59c, #64b3f4);
+  font-family: "Baloo Bhaijaan 2", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  height: 230px;
+  
+}
